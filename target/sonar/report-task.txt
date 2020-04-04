@@ -2,5 +2,5 @@ projectKey=test
 serverUrl=http://34.69.247.160:9000
 serverVersion=7.9.1.27448
 dashboardUrl=http://34.69.247.160:9000/dashboard?id=test
-ceTaskId=AXFFJUdvrxzZ1EWF1hRV
-ceTaskUrl=http://34.69.247.160:9000/api/ce/task?id=AXFFJUdvrxzZ1EWF1hRV
+ceTaskId=AXFFLdrFrxzZ1EWF1hRZ
+ceTaskUrl=http://34.69.247.160:9000/api/ce/task?id=AXFFLdrFrxzZ1EWF1hRZ
