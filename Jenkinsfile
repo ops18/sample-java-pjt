@@ -3,7 +3,6 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-           #     sh 'mvn -B -DskipTests clean package'
                 sh "mvn sonar:sonar   -Dsonar.projectKey=test   -Dsonar.host.url=http://34.69.247.160:9000   -Dsonar.login=325a98e8391c03cce8dc019a4a9193011863b42a"
             }
         }
